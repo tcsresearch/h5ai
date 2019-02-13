@@ -1898,6 +1898,9 @@ select {
 #view.view-icons .item:hover {
   box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.5);
 }
+.item:hover {
+  font-weight: bold;
+}
 
 #view.view-icons .landscape {
   display: block;
