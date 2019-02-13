@@ -21,5 +21,5 @@
         <span class="noJsMsg">Works best with JavaScript enabled!</span>
         <span class="noBrowserMsg">Works best in <a href="http://browsehappy.com">modern browsers</a>!</span>
         <?php
-    } ?><span class="backlink"><a href="https://larsjung.de/h5ai/" title="There is no place like 127.0.0.1">Maxim's Place</a></span></div>
+    } ?><span class="backlink"><a href="https://larsjung.de/h5a i/" title="There is no place like 127.0.0.1">Maxim's Place</a></span></div>
     <div id="fallback"><?= $fallback_html; ?></div></body></html>
