@@ -7,7 +7,7 @@ A modern HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee.
 ## Maxim's change
 * I changed the color of the folders with an index.html or a index.php to red.
 * I changed the icons for the materials icons.
-* I changed all the colors the make a dark theme #makeYourEyesHealty
+* I changed all the colors to make a dark theme #makeYourEyesHealty
 
 ## Important
 
